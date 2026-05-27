@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Harsh",
+    "age": 24,
+    "email": "harsh@gmail.com",
+    "pin": 1234,
+    "accountNo": "97$N6rb",
+    "balance": 0
+  },
+  {
+    "name": "Jaya",
+    "age": 20,
+    "email": "jaya1@gmail.com",
+    "pin": 1234,
+    "accountNo": "l444$Py",
+    "balance": 2000
+  },
+  {
+    "name": "Amit",
+    "age": 20,
+    "email": "amitlala@gmail.com",
+    "pin": 1234,
+    "accountNo": "4N1HF5#",
+    "balance": 5000
+  }
+]
